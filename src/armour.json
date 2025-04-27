@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Dracula's Shadow",
+        "image": "/images/armour/Armour_DraculasShadowChestguard.webp"
+    },
+    {
+        "name": "Dracula's Grim",
+        "image": "/images/armour/Armour_DraculasGrimChestguard.webp"
+    },
+    {
+        "name": "Dracula's Dread",
+        "image": "/images/armour/Armour_DraculasDreadChestguard.webp"
+    },
+    {
+        "name": "Dracula's Maleficer",
+        "image": "/images/armour/Armour_DraculasMaleficerChestguard.webp"
+    }
+]

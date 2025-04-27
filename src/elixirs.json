@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Elixir of the Bat",
+      "image": "/images/elixirs/elixir_of_the_bat.jpg",
+      "effect": "spell leech, spell cdr"
+    },
+    {
+      "name": "Elixir of the Beast",
+      "image": "/images/elixirs/elixir_of_the_beast.jpg",
+      "effect": "max health, heal recieved"
+    },
+    {
+      "name": "Elixir of the Blasphemous",
+      "image": "/images/elixirs/elixir_of_the_blasphemous.jpg",
+      "effect": "ult power, ult cdr"
+    },
+    {
+      "name": "Elixir of the Crow",
+      "image": "/images/elixirs/elixir_of_the_crow.jpg",
+      "effect": "weapon leech, weapon cdr"
+    },
+    {
+      "name": "Elixir of the Prowler",
+      "image": "/images/elixirs/elixir_of_the_prowler.jpg",
+      "effect": "movespeed, veil cdr"
+    },
+    {
+      "name": "Elixir of the Raven",
+      "image": "/images/elixirs/elixir_of_the_raven.jpg",
+      "effect": "physical crit, physical crit power"
+    },
+    {
+      "name": "Elixir of the Twisted",
+      "image": "/images/elixirs/elixir_of_the_twisted.jpg",
+      "effect": "spell crit, spell crit power"
+    },
+    {
+      "name": "Elixir of the Werewolf",
+      "image": "/images/elixirs/elixir_of_the_werewolf.jpg",
+      "effect": "attack speed, weapon skill power"
+    }
+  ]
+  

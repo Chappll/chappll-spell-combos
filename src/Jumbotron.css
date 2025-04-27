@@ -1,0 +1,83 @@
+.jumbotron {
+    background-color: rgb(0, 0, 0);
+    background-image: url('./images/jumbotron-header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+    color: #fff;
+    padding: 60px 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 4px solid crimson;
+  }
+  
+  /* Optional: Add a dark overlay for readability */
+  .jumbotron::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.7); /* black overlay at 70% */
+    z-index: 0;
+  }
+  
+  /* Ensure content sits above the overlay */
+  .jumbotron * {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .jumbotron h1 {
+    font-family: 'Cinzel', serif;
+    margin: 0;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+
+  .logo {
+    width: 40%;
+    max-width: 120px; /* optional cap so it's not too big on large screens */
+    margin-bottom: 20px;
+  }
+  
+  .jumbotron p {
+    font-family: 'Cinzel', serif;
+    margin-top: 12px;
+    font-size: 1.3rem;
+    color: #ccc; /* soft grey for subtlety */
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  
+  /* Optional: fade crimson glow at the bottom */
+  .jumbotron::after {
+     content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 20% 40%, rgba(220, 20, 60, 0.08) 0%, transparent 80%),
+              radial-gradient(circle at 70% 60%, rgba(220, 20, 60, 0.08) 0%, transparent 80%);
+  animation: fog-move 40s linear infinite;
+  z-index: 1;
+  pointer-events: none;
+  }
+
+  /* Fog animation keyframes */
+  @keyframes fog-move {
+    0% {
+      background-position: 0% 0%, 100% 100%;
+    }
+    50% {
+      background-position: 60% 20%, 40% 80%;
+    }
+    100% {
+      background-position: 0% 0%, 100% 100%;
+    }
+  }

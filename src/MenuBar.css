@@ -1,0 +1,25 @@
+.menu-bar {
+  background-color: #000; /* pure black */
+  padding: 12px 20px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  border-bottom: 2px solid crimson;
+}
+
+.menu-button {
+  font-family: 'Cinzel', serif;
+  font-weight: bolder;
+  color: crimson;
+  background-color: transparent;
+  border: 2px solid crimson;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.menu-button:hover {
+  background-color: crimson;
+  color: #000;
+}

@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+:root {
+  --font-heading: 'Cinzel', serif;
+  --font-body: 'Lora', serif;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: #0a0a0a;
+  color: #eaeaea;
+  margin: 0;
+  padding: 0;
+  line-height: 1.8;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: crimson;
+  margin-top: 1.5em;
+  letter-spacing: 0.5px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

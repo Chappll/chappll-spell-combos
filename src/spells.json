@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Shadowbolt",
+        "image": "/images/spells/Shadowbolt.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Shadowbolt",
+        "school": "blood"
+      },
+      {
+        "name": "Blood Rage",
+        "image": "/images/spells/bloodrage.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Blood_Rage",
+        "school": "blood"
+      },
+      {
+        "name": "Blood Rite",
+        "image": "/images/spells/bloodrite.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Blood_Rite",
+        "school": "blood"
+      },
+      {
+        "name": "Blood Fountain",
+        "image": "/images/spells/bloodfountain.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Blood_Fountain",
+        "school": "blood"
+      },
+      {
+        "name": "Sanguine Coil",
+        "image": "/images/spells/sanguinecoil.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Blood_Fountain",
+        "school": "blood"
+      },
+      {
+        "name": "Carrion Swarm",
+        "image": "/images/spells/swarm.jpg",
+        "wiki": "/",
+        "school": "blood"
+      },
+      {
+        "name": "Veil of Blood",
+        "image": "/images/spells/blooddash.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Veil_Of_Blood",
+        "school": "blood"
+      },
+      {
+        "name": "Chaos Volley",
+        "image": "/images/spells/chaosvolley.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Chaos_Volley",
+        "school": "chaos"
+      },
+      {
+        "name": "Aftershock",
+        "image": "/images/spells/aftershock.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Aftershock",
+        "school": "chaos"
+      },
+      {
+        "name": "Power Surge",
+        "image": "/images/spells/powersurge.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Power_Surge",
+        "school": "chaos"
+      },
+      {
+        "name": "Chaos Barrier",
+        "image": "/images/spells/chaosbar.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Chaos_Barrier",
+        "school": "chaos"
+      },
+      {
+        "name": "Rain of Chaos",
+        "image": "/images/spells/rainofchaos.jpg",
+        "wiki": "/",
+        "school": "chaos"
+      },
+      {
+        "name": "Veil of Chaos",
+        "image": "/images/spells/chaosdash.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Veil_Of_Chaos",
+        "school": "chaos"
+      },
+      {
+        "name": "Void",
+        "image": "/images/spells/chaosvoid.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Void",
+        "school": "chaos"
+      },
+      {
+        "name": "Bone Explosion",
+        "image": "/images/spells/boneex.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Bone_Explosion",
+        "school": "unholy"
+      },
+      {
+        "name": "Corrupted Skull",
+        "image": "/images/spells/corruptedskull.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Corrupted_Skull",
+        "school": "unholy"
+      },
+      {
+        "name": "Death Knight",
+        "image": "/images/spells/deathknight.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Death_Knight",
+        "school": "unholy"
+      },
+      {
+        "name": "Soulburn",
+        "image": "/images/spells/soulburn.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Soulburn",
+        "school": "unholy"
+      },
+      {
+        "name": "Ward of the Damned",
+        "image": "/images/spells/skellybar.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Ward_of_the_Damned",
+        "school": "unholy"
+      },
+      {
+        "name": "Unholy Chains",
+        "image": "/images/spells/chains.jpg",
+        "wiki": "/",
+        "school": "unholy"
+      },
+      {
+        "name": "Veil of Bones",
+        "image": "/images/spells/bonedash.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Veil_of_Bones",
+        "school": "unholy"
+      },
+      {
+        "name": "Spectral Wolf",
+        "image": "/images/spells/specwolf.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Spectral_Wolf",
+        "school": "illusion"
+      },
+      {
+        "name": "Mosquito",
+        "image": "/images/spells/mosquito.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Mosquito_(Spell)",
+        "school": "illusion"
+      },
+      {
+        "name": "Mist Trance",
+        "image": "/images/spells/misttrance.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Mist_Trance",
+        "school": "illusion"
+      },
+      {
+        "name": "Phantom Aegis",
+        "image": "/images/spells/phantomaegis.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Phantom_Aegis",
+        "school": "illusion"
+      },
+      {
+        "name": "Wraith Spear",
+        "image": "/images/spells/wraithspear.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Wraith_Spear",
+        "school": "illusion"
+      },
+      {
+        "name": "Curse",
+        "image": "/images/spells/curse.jpg",
+        "wiki": "/",
+        "school": "illusion"
+      },
+      {
+        "name": "Veil of Illusion",
+        "image": "/images/spells/illudash.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Veil_of_Illusion",
+        "school": "illusion"
+      },
+      {
+        "name": "Crystal Lance",
+        "image": "/images/spells/crystallance.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Crystal_Lance",
+        "school": "frost"
+      },
+      {
+        "name": "Frost Bat",
+        "image": "/images/spells/frostbat.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Frost_Bat",
+        "school": "frost"
+      },
+      {
+        "name": "Frost Barrier",
+        "image": "/images/spells/frostbarr.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Frost_Barrier",
+        "school": "frost"
+      },
+      {
+        "name": "Ice Nova",
+        "image": "/images/spells/icenova.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Ice_Nova",
+        "school": "frost"
+      },
+      {
+        "name": "Arctic Storm",
+        "image": "/images/spells/arcticstorm.jpg",
+        "wiki": "/",
+        "school": "frost"
+      },
+      {
+        "name": "Cold Snap",
+        "image": "/images/spells/coldsnap.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Cold_Snap",
+        "school": "frost"
+      },
+      {
+        "name": "Veil of Frost",
+        "image": "/images/spells/frostdash.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Veil_of_Frost",
+        "school": "frost"
+      },
+      {
+        "name": "Cyclone",
+        "image": "/images/spells/cyclone.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Thunder_Strike",
+        "school": "lightning"
+      },
+      {
+        "name": "Ball Lightning",
+        "image": "/images/spells/balllightning.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Ball_Lightning",
+        "school": "lightning"
+      },
+      {
+        "name": "Discharge",
+        "image": "/images/spells/discharge.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Discharge",
+        "school": "lightning"
+      },
+      {
+        "name": "Polarity Shift",
+        "image": "/images/spells/polshift.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Polarity_Shift",
+        "school": "lightning"
+      },
+      {
+        "name": "Lightning Curtain",
+        "image": "/images/spells/lcurtain.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Lightning_Curtain",
+        "school": "lightning"
+      },
+      {
+        "name": "Lightning Tendrils",
+        "image": "/images/spells/tendrils.jpg",
+        "wiki": "/",
+        "school": "lightning"
+      },
+      {
+        "name": "Veil of Storm",
+        "image": "/images/spells/lightningdash.jpg",
+        "wiki": "https://vrising.fandom.com/wiki/Veil_of_Storm",
+        "school": "lightning"
+      }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Crimson Commander",
+        "image": "/images/amulets/Jewelry_AmuletoftheCrimsonCommander"
+    },
+    {
+        "name": "Wicked Prophet",
+        "image": "/images/amulets/Jewelry_AmuletoftheWickedProphet"
+    },
+    {
+        "name": "Unyielding Charger",
+        "image": "/images/amulets/Jewelry_AmuletoftheUnyieldingCharger"
+    },
+    {
+        "name": "Master Spellweaver",
+        "image": "/images/amulets/Jewelry_AmuletoftheMasterSpellWeaver"
+    },
+    {
+        "name": "Arch-Warlock",
+        "image": "/images/amulets/Jewelry_AmuletoftheArch-Warlock"
+    },
+    {
+        "name": "Blademaster",
+        "image": "/images/amulets/Jewelry_AmuletoftheBladeMaster"
+    }
+]

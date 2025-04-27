@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Brute",
+        "image": "/images/bloods/BloodType_Brute.webp"
+    },
+    {
+        "name": "Creature",
+        "image": "/images/bloods/BloodType_Creature.webp"
+    },
+    {
+        "name": "Draculin",
+        "image": "/images/bloods/BloodType_Draculin.webp"
+    },
+    {
+        "name": "Mutant",
+        "image": "/images/bloods/BloodType_Mutant.webp"
+    },
+    {
+        "name": "Rogue",
+        "image": "/images/bloods/BloodType_Rogue.webp"
+    },
+    {
+        "name": "Scholar",
+        "image": "/images/bloods/BloodType_Scholar.webp"
+    },
+    {
+        "name": "Warrior",
+        "image": "/images/bloods/BloodType_Warrior.webp"
+    },
+    {
+        "name": "Corrupted",
+        "image": "/images/bloods/Corrupted.jpg"
+    }
+]

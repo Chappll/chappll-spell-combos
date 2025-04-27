@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Bloodcoat",
+      "image": "/images/coatings/bloodcoat.jpg"
+    },
+    {
+      "name": "Chaoscoat",
+      "image": "/images/coatings/chaoscoat.jpg"
+    },
+    {
+      "name": "Frostcoat",
+      "image": "/images/coatings/frostcoat.jpg"
+    },
+    {
+      "name": "Illucoat",
+      "image": "/images/coatings/illucoat.jpg"
+    },
+    {
+      "name": "Stormcoat",
+      "image": "/images/coatings/stormcoat.jpg"
+    },
+    {
+      "name": "Unholycoat",
+      "image": "/images/coatings/unholycoat.jpg"
+    }
+  ]

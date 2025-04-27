@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Crimson Beam",
+        "image": "/images/ults/Ability_CrimsonBeam.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Crimson_Beam",
+        "school": "blood"
+      },
+      {
+        "name": "Heart Strike",
+        "image": "/images/ults/Ability_HeartStrike.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Heart_Strike",
+        "school": "blood"
+      },
+      {
+        "name": "Merciless Charge",
+        "image": "/images/ults/Ability_MercilessCharge.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Merciless_Charge",
+        "school": "chaos"
+      },
+      {
+        "name": "ChaosBarrage",
+        "image": "/images/ults/Ability_ChaosBarrage.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Chaos_Barrage",
+        "school": "chaos"
+      },
+      {
+        "name": "Army Of The Dead",
+        "image": "/images/ults/Ability_ArmyOfTheDead.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Army_Of_The_Dead",
+        "school": "unholy"
+      },
+      {
+        "name": "Volatile Arachnid",
+        "image": "/images/ults/Ability_VolatileArachnid.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Volatile_Arachnid",
+        "school": "unholy"
+      },
+      {
+        "name": "Spectral Guardian",
+        "image": "/images/ults/Ability_SpectralGuardian.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Spectral_Guardian",
+        "school": "illusion"
+      },
+      {
+        "name": "Wisp Dance",
+        "image": "/images/ults/Ability_WispDance.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Wisp_Dance",
+        "school": "illusion"
+      },
+      {
+        "name": "Arctic Leap",
+        "image": "/images/ults/Ability_ArcticLeap.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Arctic_Leap",
+        "school": "frost"
+      },
+      {
+        "name": "Ice Block",
+        "image": "/images/ults/Ability_IceBlock.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Ice_Block",
+        "school": "frost"
+      },
+      {
+        "name": "Raging Tempest",
+        "image": "/images/ults/Ability_RagingTempest.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Raging_Tempest",
+        "school": "lightning"
+      },
+      {
+        "name": "Lightning Typhoon",
+        "image": "/images/ults/Ability_LightningTyphoon.webp",
+        "wiki": "https://vrising.fandom.com/wiki/Lightning_Typhoon",
+        "school": "lightning"
+      }
+
+]

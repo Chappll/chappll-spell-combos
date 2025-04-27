@@ -1,0 +1,91 @@
+/* SpellsSection.css */
+.spells-section {
+    padding: 2rem;
+    background-color: #111;
+    color: #fff; 
+  }
+  
+  .spell-filters {
+    margin-bottom: 1.5rem;
+  }
+  
+  .spell-filters button {
+    background: transparent;
+    border: 2px solid #fff;
+    margin-right: 10px;
+    padding: 6px 12px;
+    font-size: 1rem;
+    color:#fff;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 6px;
+  }
+  
+  .spell-filters button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .spells-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .spells-build-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .spell-card {
+    background-color: #1c1c1c;
+    padding: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .spell-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .spell-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 6px;
+  }
+  
+  .spell-card h3 {
+    margin: 0.5rem 0;
+    font-family: 'Cinzel', serif;
+  }
+  
+  .spell-card a {
+    color: #ddd;
+    text-decoration: underline;
+    font-size: 0.9rem;
+  }
+
+  .blood-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: left;
+    margin-bottom: 1rem;
+  }
+  
+  .blood-filter-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.3s;
+    object-fit: contain;
+  }
+  
+  .blood-filter-icon.selected {
+    box-shadow: 0 0 10px 4px rgba(139, 0, 0, 0.7); /* Crimson red glow */
+    transform: scale(1.1);
+    background-color: rgba(139, 0, 0, 0.2);
+  }

@@ -1,0 +1,61 @@
+
+  /* Modal styles */
+  .build-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4); /* More transparent */
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(4px); /* optional: adds a nice blur behind modal */
+  }
+  
+  .build-modal {
+    background: rgba(26, 26, 26, 0.3); /* Slight transparency */
+    padding: 2rem;
+    border-radius: 1rem;
+    max-width: 800px;
+    width: 90%;
+    max-height: 90%;
+    overflow-y: auto;
+    position: relative;
+    color: white;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+  }
+  
+  .modal-icon {
+    width: 64px;
+    height: 64px;
+    margin: 0.5rem;
+    object-fit: contain;
+  }
+  
+  .modal-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 1rem;
+    height: 64px;
+  }
+  
+  .variation-text {
+    margin-left: 1rem;
+    font-style: italic;
+    color: #ccc;
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  
