@@ -15,7 +15,8 @@
         "amulet": "Master Spellweaver",  
         "elixir": "Elixir of the Prowler",
         "coating": "Frostcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"] 
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
+        "change": "up"
     },
     {
         "buildname": "Hybrid Spell/Warrior",
@@ -93,7 +94,7 @@
         "buildname": "Arctic Storm Scholar Tank",
         "description": "Tank build that is unmatched in close range. Sponges damage with high shielding and hits through defensives for high damage with artic storm. Artic storm can be interrupted at the end of the cast to remove the risk of triggering defensives.",
         "author": "ChipSa",
-        "tier": "S+",
+        "tier": "S",
         "content": "All",
         "spell1": "Veil of Frost",
         "spell2": "Arctic Storm",
@@ -105,7 +106,8 @@
         "amulet": "Master Spellweaver",
         "elixir": "Elixir of the Beast",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Spiritual Infusion"]
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Spiritual Infusion"],
+        "change": "down"
     },
     {
         "buildname": "Skele Lightning",
@@ -300,7 +302,8 @@
         "amulet": "Wicked Prophet",
         "elixir": "Elixir of the Bat",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Flowing Sorcery", "Renewing Flame", "Spiritual Infusion"]
+        "passives": ["Bastion", "Dark Enchantment", "Flowing Sorcery", "Renewing Flame", "Spiritual Infusion"],
+        "change": "down"
     },
     {
         "buildname": "Spooky Ghost Permaheals",
@@ -540,7 +543,7 @@
         "buildname": "Easy Procs",
         "description": "Proc your own counters with the shadows summoned by corrupted blood.",
         "author": "Hotbiscuit",
-        "tier": "S",
+        "tier": "S+",
         "content": "Arena mostly",
         "spell1": "Veil of Chaos",
         "spell2": "Cold Snap",
@@ -552,7 +555,8 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
-        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"]
+        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "change": "up"
     },
     {
         "buildname": "Standard Healer",
@@ -612,7 +616,7 @@
         "buildname": "Arctic Stormy",
         "description": "A higher mobility more offensive variation of arctic storm that maximises its damage using enhanced conductivity to proc static",
         "author": "Chappll",
-        "tier": "S+",
+        "tier": "S",
         "content": "All",
         "spell1": "Veil of Storm",
         "spell2": "Arctic Storm",
@@ -624,7 +628,8 @@
         "amulet": "Master Spellweaver",
         "elixir": "Elixir of the Prowler",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Chill Weave", "Cold Soul"]
+        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Chill Weave", "Cold Soul"],
+        "change": "down"
     },
     {
         "buildname": "Blood Flying warrior ",
@@ -738,7 +743,7 @@
         "buildname": "Anti Defence Warrior",
         "description": "A standard physical damage set that uses soulburn for melee range pressure and to deal with defensives",
         "author": "Chappll",
-        "tier": "S+",
+        "tier": "S",
         "content": "Any Content",
         "spell1": "Veil of Frost",
         "spell2": "Soulburn",
@@ -750,7 +755,8 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"]
+        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"],
+        "change": "down"
     },
     {
         "buildname": "Soulburn Scholar Tank",
@@ -786,7 +792,7 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Wicked Power", "Bastion", "Chaos Kindling", "Renewing Flame", "Embrace Mayhem"]
+        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"]
     },
     {
         "buildname": "Physical Curse",
@@ -894,7 +900,8 @@
         "amulet": "Arch-Warlock",  
         "elixir": "Elixir of the Twisted",
         "coating": "Frostcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"] 
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
+        "change": "up"
     },
     {
         "buildname": "Ult Support - Tendrils",
@@ -912,7 +919,8 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Bat",
         "coating": "Illucoat",
-        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Embrace Mayhem", "Turbulent Velocity"]
+        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Embrace Mayhem", "Turbulent Velocity"],
+        "change": "up"
     },
     {
         "buildname": "Ult Support - Blood Tendrils",
@@ -984,7 +992,8 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "IlluCoat",
-        "passives": ["Overpower", "Feral Haste", "Rampage", "Feral Haste", "Bastion"]
+        "passives": ["Overpower", "Feral Haste", "Rampage", "Feral Haste", "Bastion"],
+        "change": "new"
     },
     {
         "buildname": "Overdose Build (OD)",
@@ -1002,7 +1011,8 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Prowler",
         "coating": "Stormcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Rampage", "Lethal Strikes", "Lightning Fast Strikes"]
+        "passives": ["Bastion", "Dark Enchantment", "Rampage", "Lethal Strikes", "Lightning Fast Strikes"],
+        "change": "new"
     },
     {
         "buildname": "Battle Mage",
@@ -1020,7 +1030,8 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Twisted",
         "coating": "Stormcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"]
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
+        "change": "new"
     },
     {
         "buildname": "Movespeed Void",
@@ -1038,7 +1049,64 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Renewing Flame", "Chaos Kindling", "Turbulent Velocity"]
+        "passives": ["Bastion", "Dark Enchantment", "Renewing Flame", "Chaos Kindling", "Turbulent Velocity"],
+        "change": "new"
+    },
+    {
+        "buildname": "Agony Skeleton Chaos",
+        "description": "Very strong control based neutral game. Exceptional at long ranged combat. Ward of the damned gives amazing ranged pressure and defence and AOE for beating double defensive. Jewel for Ward is very important - Agony, heal, knockback and recast damage. Can play void or chaos volley",
+        "author": "Chappll",
+        "tier": "S+",
+        "content": "Any",
+        "spell1": "Veil of Chaos",
+        "spell2": "Chaos Volley",
+        "spell3": "Chaos Barrier",
+        "ultspell": "Merciless Charge",
+        "blood": ["Draculin", "Scholar"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Maleficer", 
+        "amulet": "Arch-Warlock",
+        "elixir": "Elixir of the Twisted",
+        "coating": "Chaoscoat",
+        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"],
+        "change": "new"
+    },
+    {
+        "buildname": "Corrupted Double defence",
+        "description": "Proc your own counters with the shadows summoned by corrupted blood. Very few opening to deal damage to without AOE. Very strong 1vX and has many good matchups",
+        "author": "Chappll",
+        "tier": "S+",
+        "content": "All Content",
+        "spell1": "Veil of Illusion",
+        "spell2": "Blood Rite",
+        "spell3": "Mist Trance",
+        "ultspell": "Heart Strike",
+        "blood": ["Warrior", "Corrupted"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Dread", 
+        "amulet": "Crimson Commander",
+        "elixir": "Elixir of the Raven",
+        "coating": "Chaoscoat",
+        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "change": "up"
+    },
+    {
+        "buildname": "Standard Chains",
+        "description": "A higher damage chain setup that has decent neutral and defence. The top tier core of frost barrier, frost dash does a good job setting up chains. Best when taking the dot jewel not and does not greed more damage with extra duration",
+        "author": "Chappll - Seen from Chipsa",
+        "tier": "A",
+        "content": "Any Content",
+        "spell1": "Veil of Frost",           
+        "spell2": "Unholy Chains",
+        "spell3": "Frost Barrier",
+        "ultspell": "Ice Block",   
+        "blood": ["Draculin", "Scholar"], 
+        "bloodvariation": "2",     
+        "armour": "Dracula's Maleficer", 
+        "amulet": "Arch-Warlock",  
+        "elixir": "Elixir of the Twisted",
+        "coating": "Chaoscoat",
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Wicked Power"],
+        "change": "new"
     }
-    
 ]

@@ -173,8 +173,40 @@ const SpellBuildsSection = () => {
             className="spell-card"
             key={index}
             onClick={() => setSelectedBuild(build)}
-            style={{background: getGradientBackground(build), padding: "5px", cursor: "pointer"}}
+            style={{background: getGradientBackground(build), padding: "5px", cursor: "pointer", position: "relative"}}
           >
+          {build.change && (
+            <div
+              style={{
+                position: "absolute",
+                top: "4px",
+                left: "4px",
+                fontSize: "18px",
+                background: "rgba(0,0,0,0.6)",
+                borderRadius: "4px",
+                padding: "2px 6px",
+                color:
+                  build.change === "up"
+                    ? "#00ff00"   // green
+                    : build.change === "down"
+                    ? "#ff4d4d"   // red
+                    : "#ffd700", // gold for new
+                fontWeight: "bold",
+                zIndex: 2
+              }}
+              title={
+                build.change === "up"
+                  ? "Build improved"
+                  : build.change === "down"
+                  ? "Build downgraded"
+                  : "New build"
+              }
+            >
+              {build.change === "up" && "↑"}
+              {build.change === "down" && "↓"}
+              {build.change === "new" && "★"}
+            </div>
+          )}
             <div style={{background: "black", padding:"5px"}}>
               <h3 style={{ textShadow: "0 0 6px rgba(0,0,0,0.9)"}}>{build.buildname}</h3>
               <div style={{ display: "flex", justifyContent: "center", gap: "6px", marginBottom: "0.5rem"}}>

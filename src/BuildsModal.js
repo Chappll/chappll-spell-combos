@@ -82,6 +82,7 @@ const BuildModal = ({ build, onClose, gradient }) => {
               key={i}
               src={getImage(b, bloods) || "/images/fallback.png"}
               alt={b}
+              title={build.blood}
               style={{height: "64px"}}
               onError={(e) => (e.target.style.display = "none")}
             />
@@ -92,18 +93,20 @@ const BuildModal = ({ build, onClose, gradient }) => {
 
         {/* Armour / Amulet / Passives */}
         <div className="modal-row">
-          <img
-            src={getImage(build.armour, armour, "armour")}
-            alt={build.armour}
-            className="modal-icon"
-            onError={(e) => (e.target.style.display = "none")}
-          />
-          <img
-            src={getImage(build.amulet, amulets, "amulet")}
-            alt={build.amulet}
-            className="modal-icon"
-            onError={(e) => (e.target.style.display = "none")}
-          />
+              <img
+              src={getImage(build.armour, armour, "armour")}
+              alt={build.armour}
+              title={build.armour}
+              className="modal-icon"
+              onError={(e) => (e.target.style.display = "none")}
+            />
+            <img
+              src={getImage(build.amulet, amulets, "amulet")}
+              alt={build.amulet}
+              title={build.amulet}
+              className="modal-icon"
+              onError={(e) => (e.target.style.display = "none")}
+            />
           <img
               src={getItemImage(build.elixir, elixirs)}
               alt={build.elixir}
@@ -124,6 +127,7 @@ const BuildModal = ({ build, onClose, gradient }) => {
               key={i}
               src={getImage(p, passives)}
               alt={p}
+              title={p}
               className="modal-icon"
               onError={(e) => (e.target.style.display = "none")}
             />
