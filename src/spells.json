@@ -32,7 +32,7 @@
       {
         "name": "Carrion Swarm",
         "image": "/images/spells/swarm.jpg",
-        "wiki": "/",
+        "wiki": "https://vrising.fandom.com/wiki/Carrion_Swarm",
         "school": "blood"
       },
       {
@@ -68,7 +68,7 @@
       {
         "name": "Rain of Chaos",
         "image": "/images/spells/rainofchaos.jpg",
-        "wiki": "/",
+        "wiki": "https://vrising.fandom.com/wiki/Rain_of_Chaos",
         "school": "chaos"
       },
       {
@@ -116,7 +116,7 @@
       {
         "name": "Unholy Chains",
         "image": "/images/spells/chains.jpg",
-        "wiki": "/",
+        "wiki": "https://vrising.fandom.com/wiki/Chains_of_Death",
         "school": "unholy"
       },
       {
@@ -158,7 +158,7 @@
       {
         "name": "Curse",
         "image": "/images/spells/curse.jpg",
-        "wiki": "/",
+        "wiki": "https://vrising.fandom.com/wiki/Curse",
         "school": "illusion"
       },
       {
@@ -194,7 +194,7 @@
       {
         "name": "Arctic Storm",
         "image": "/images/spells/arcticstorm.jpg",
-        "wiki": "/",
+        "wiki": "https://vrising.fandom.com/wiki/Arctic_Storm",
         "school": "frost"
       },
       {
@@ -242,7 +242,7 @@
       {
         "name": "Lightning Tendrils",
         "image": "/images/spells/tendrils.jpg",
-        "wiki": "/",
+        "wiki": "https://vrising.fandom.com/wiki/Lightning_Tendrils",
         "school": "lightning"
       },
       {
