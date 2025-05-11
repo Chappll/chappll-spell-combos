@@ -501,7 +501,7 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"] 
+        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"]
     }, 
     {
         "buildname": "Blood Bat Beam",
@@ -999,7 +999,7 @@
         "buildname": "Overdose Build (OD)",
         "description": "OD is the zenith of versatility, offering unparalleled dominance across all ranges — short, medium, and long. Mastery of cooldown management is essential. Stoic and unshakable, it punishes any approach: if your opponent engages you, they are dead. If they play long range, they are dead too. Weapon mastery is crucial because there are no defences to rely on. You fight or you fall. As the ultimate physical build, it stands undefeated — practically turning you into gOD.",
         "author": "Spineless",
-        "tier": "S+",
+        "tier": "S",
         "content": "Any Content",
         "spell1": "Veil of Storm",
         "spell2": "Blood Rage",
@@ -1018,7 +1018,7 @@
         "buildname": "Battle Mage",
         "description": "The Battle Mage build is a relentless hybrid, merging physical power with spell power. It boasts maximum attack speed, high damage reduction, and high movement speed. This setup taps into every skill tree.",
         "author": "Spineless",
-        "tier": "S+",
+        "tier": "S",
         "content": "Any Content",
         "spell1": "Veil of Frost",
         "spell2": "Ice Nova",
@@ -1083,7 +1083,7 @@
         "ultspell": "Heart Strike",
         "blood": ["Warrior", "Corrupted"], 
         "bloodvariation": "3",
-        "armour": "Dracula's Dread", 
+        "armour": "Dracula's Shadow", 
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
@@ -1107,6 +1107,25 @@
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
         "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Wicked Power"],
+        "change": "new"
+    },
+    {
+        "buildname": "Nemesis",
+        "description": "Standard physical build with a good spread of tank, damage and mobility stats",
+        "author": "Chappll - Seen from Nemesis",
+        "tier": "S+",
+        "content": "All Content",
+        "spell1": "Veil of Storm",
+        "spell2": "Power Surge",
+        "spell3": "Blood Rite",
+        "ultspell": "Ice Block",
+        "blood": ["Brute", "Rogue"], 
+        "bloodvariation": "1",
+        "armour": "Dracula's Shadow", 
+        "amulet": "Unyielding Charger",
+        "elixir": "Elixir of the Raven",
+        "coating": "Unholycoat",
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
         "change": "new"
     }
 ]
