@@ -1127,5 +1127,24 @@
         "coating": "Unholycoat",
         "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
         "change": "new"
+    },
+    {
+        "buildname": "Max Damage Daggers",
+        "description": "A build that enables daggers as a solo weapon with no weapon swaps. Optimised stats with maxed physical crit, phys power, weapon skill power. Perfect with the artifact weapon wraith blades it aims to stack high phantasm quickly and throw dagger Qs as often as possible.",
+        "author": "Chappll",
+        "tier": "S",
+        "content": "All",
+        "spell1": "Veil of Illusion",           
+        "spell2": "Curse",
+        "spell3": "Mist Trance",
+        "ultspell": "Merciless Charge",    
+        "blood": ["Warrior", "Rogue"], 
+        "bloodvariation": "1",     
+        "armour": "Dracula's Dread", 
+        "amulet": "Crimson Commander",  
+        "elixir": "Elixir of the Raven",
+        "coating": "Stormcoat",
+        "passives": ["Bastion", "Dark Enchantment", "Overpower", "Ravenous Strikes", "Lethal Strikes"],
+        "change": "new"
     }
 ]
