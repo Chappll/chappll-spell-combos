@@ -1261,6 +1261,7 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"]
+        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"],
+        "change": "new"
     }
 ]
