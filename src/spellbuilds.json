@@ -1244,5 +1244,23 @@
         "coating": "Chaoscoat",
         "passives": ["Wicked Power", "Bastion", "Enhanced Conductivity", "Turbulent Velocity", "Dark Enchantment"],
         "change": "up"
+    },
+    {
+         "buildname": "Double Offence Chaos",
+        "description": "Vulnarable in 1v1s but huge damage potential when protected",
+        "author": "Chappll",
+        "tier": "S",
+        "content": "Teamfights",
+        "spell1": "Veil of Chaos",
+        "spell2": "Chaos Volley",
+        "spell3": "Void",
+        "ultspell": "Chaos Barrage",
+        "blood": ["Draculin", "Scholar"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Maleficer", 
+        "amulet": "Arch-Warlock",
+        "elixir": "Elixir of the Twisted",
+        "coating": "Chaoscoat",
+        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"]
     }
 ]
