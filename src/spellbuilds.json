@@ -15,8 +15,7 @@
         "amulet": "Master Spellweaver",  
         "elixir": "Elixir of the Prowler",
         "coating": "Frostcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
-        "change": "up"
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"]
     },
     {
         "buildname": "Hybrid Spell/Warrior",
@@ -106,8 +105,7 @@
         "amulet": "Master Spellweaver",
         "elixir": "Elixir of the Beast",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Spiritual Infusion"],
-        "change": "down"
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Spiritual Infusion"]
     },
     {
         "buildname": "Skele Lightning",
@@ -237,7 +235,7 @@
         "buildname": "Random Ball-shift Go",
         "description": "Exceptionally strong neutral game, very good at ranged and close combat, highly mobile. Lacks burst damage. Alternative ults heart strike or crimson beam.",
         "author": "CountDickula",
-        "tier": "S",
+        "tier": "S+",
         "content": "Arena / Open World",
         "spell1": "Veil of Frost",
         "spell2": "Polarity Shift",
@@ -249,7 +247,8 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Stormcoat",
-        "passives": ["Wicked Power", "Bastion", "Enhanced Conductivity", "Turbulent Velocity", "Embrace Mayhem"]
+        "passives": ["Wicked Power", "Bastion", "Enhanced Conductivity", "Turbulent Velocity", "Embrace Mayhem"],
+        "change": "up"
     },
     {
         "buildname": "Cursing Tendrils",
@@ -302,8 +301,7 @@
         "amulet": "Wicked Prophet",
         "elixir": "Elixir of the Bat",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Flowing Sorcery", "Renewing Flame", "Spiritual Infusion"],
-        "change": "down"
+        "passives": ["Bastion", "Dark Enchantment", "Flowing Sorcery", "Renewing Flame", "Spiritual Infusion"]
     },
     {
         "buildname": "Spooky Ghost Permaheals",
@@ -370,7 +368,7 @@
         "spell3": "Bloodrite",
         "ultspell": "Heart Strike",
         "blood": ["Brute", "Rogue"], 
-        "bloodvariation": "3",
+        "bloodvariation": "1",
         "armour": "Dracula's Grim", 
         "amulet": "Blademaster",
         "elixir": "Elixir of the Beast",
@@ -555,8 +553,7 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
-        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"],
-        "change": "up"
+        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"]
     },
     {
         "buildname": "Standard Healer",
@@ -628,8 +625,7 @@
         "amulet": "Master Spellweaver",
         "elixir": "Elixir of the Prowler",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Chill Weave", "Cold Soul"],
-        "change": "down"
+        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Chill Weave", "Cold Soul"]
     },
     {
         "buildname": "Blood Flying warrior ",
@@ -725,7 +721,7 @@
         "buildname": "Skelly Bomb",
         "description": "Uses agony skeleton jewel on all unholy spells for its damage, this causes skeletons to not attack and then expload after a short duration. Potential for high burst from ult but the build is unreliable",
         "author": "Chappll",
-        "tier": "C",
+        "tier": "D",
         "content": "Any",
         "spell1": "Veil of Bones",
         "spell2": "Corrupted Skull",
@@ -755,8 +751,7 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"],
-        "change": "down"
+        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"]
     },
     {
         "buildname": "Soulburn Scholar Tank",
@@ -886,7 +881,7 @@
     },
     {
         "buildname": "Crit Frost",
-        "description": "A high-damage, mobile and flexible build with reliable combos. Primarily deals damage from frost bat and takes advantage of hybrid crit stats.",
+        "description": "A high-damage, mobile and flexible build with reliable combos. Primarily deals damage from frost bat and chill weave. Freeze > Axe E > Bat > Bat",
         "author": "Chappll - Seen from Redd",
         "tier": "S+",
         "content": "Any Content",
@@ -894,14 +889,13 @@
         "spell2": "Frost Bat",
         "spell3": "Frost Barrier",
         "ultspell": "Ice Block",   
-        "blood": ["Draculin", "Rogue"], 
-        "bloodvariation": "3",     
+        "blood": ["Draculin", "Scholar"], 
+        "bloodvariation": "2",     
         "armour": "Dracula's Maleficer", 
         "amulet": "Arch-Warlock",  
         "elixir": "Elixir of the Twisted",
         "coating": "Frostcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
-        "change": "up"
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"]
     },
     {
         "buildname": "Ult Support - Tendrils",
@@ -919,8 +913,7 @@
         "amulet": "Wicked Prophet",
         "elixir": "Elixir of the Bat",
         "coating": "Illucoat",
-        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Embrace Mayhem", "Turbulent Velocity"],
-        "change": "up"
+        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Embrace Mayhem", "Turbulent Velocity"]
     },
     {
         "buildname": "Ult Support - Blood Tendrils",
@@ -992,8 +985,7 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "IlluCoat",
-        "passives": ["Overpower", "Feral Haste", "Rampage", "Feral Haste", "Bastion"],
-        "change": "new"
+        "passives": ["Overpower", "Feral Haste", "Rampage", "Feral Haste", "Bastion"]
     },
     {
         "buildname": "Overdose Build (OD)",
@@ -1011,8 +1003,7 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Prowler",
         "coating": "Stormcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Rampage", "Lethal Strikes", "Lightning Fast Strikes"],
-        "change": "new"
+        "passives": ["Bastion", "Dark Enchantment", "Rampage", "Lethal Strikes", "Lightning Fast Strikes"]
     },
     {
         "buildname": "Battle Mage",
@@ -1030,8 +1021,7 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Twisted",
         "coating": "Stormcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
-        "change": "new"
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"]
     },
     {
         "buildname": "Movespeed Void",
@@ -1049,8 +1039,7 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Renewing Flame", "Chaos Kindling", "Turbulent Velocity"],
-        "change": "new"
+        "passives": ["Bastion", "Dark Enchantment", "Renewing Flame", "Chaos Kindling", "Turbulent Velocity"]
     },
     {
         "buildname": "Agony Skeleton Chaos",
@@ -1068,8 +1057,7 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"],
-        "change": "new"
+        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"]
     },
     {
         "buildname": "Corrupted Double defence",
@@ -1087,8 +1075,7 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
-        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"],
-        "change": "up"
+        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"]
     },
     {
         "buildname": "Standard Chains",
@@ -1106,8 +1093,7 @@
         "amulet": "Arch-Warlock",  
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Wicked Power"],
-        "change": "new"
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Wicked Power"]
     },
     {
         "buildname": "Nemesis",
@@ -1125,8 +1111,7 @@
         "amulet": "Unyielding Charger",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
-        "change": "new"
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"]
     },
     {
         "buildname": "Max Damage Daggers",
@@ -1144,7 +1129,120 @@
         "amulet": "Crimson Commander",  
         "elixir": "Elixir of the Raven",
         "coating": "Stormcoat",
+        "passives": ["Bastion", "Dark Enchantment", "Overpower", "Ravenous Strikes", "Lethal Strikes"]
+    },
+    {
+        "buildname": "Swanifier",
+        "description": "A safe double defence build with very few openings. The #1 build in gloomrot modernised for this patch, still very good",
+        "author": "Chappll - Tribute to Swanifier",
+        "tier": "S+",
+        "content": "All Content",
+        "spell1": "Veil of Blood",
+        "spell2": "Phantom Aegis",
+        "spell3": "Blood Rite",
+        "ultspell": "Heart Strike",
+        "blood": ["Brute", "Rogue"], 
+        "bloodvariation": "1",
+        "armour": "Dracula's Shadow", 
+        "amulet": "Blademaster",
+        "elixir": "Elixir of the Raven",
+        "coating": "Unholycoat",
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "change": "new"
+    },
+    {
+        "buildname": "Mutant Brute Ult Spam",
+        "description": "A double defence build that aims to get low cooldown ults to assist teammates",
+        "author": "Chappll - Dawan Build",
+        "tier": "S",
+        "content": "Teamfights",
+        "spell1": "Veil of Frost",
+        "spell2": "Phantom Aegis",
+        "spell3": "Frost Barrier",
+        "ultspell": "Merciless Charge",
+        "blood": ["Brute", "Mutant"], 
+        "bloodvariation": "2",
+        "armour": "Dracula's Grim", 
+        "amulet": "Master Spellweaver",
+        "elixir": "Elixir of the Blasphemous",
+        "coating": "Chaoscoat",
+        "passives": ["Cold Soul", "Chill Weave", "Embrace Mayhem", "Bastion", "Dark Enchantment"],
+        "change": "new"  
+    },
+    {
+        "buildname": "High Value Ult Spam",
+        "description": "A double defence build that aims to get low cooldown ults to deal large bursts of damage",
+        "author": "Chappll - Chipsa Build",
+        "tier": "S",
+        "content": "Teamfights",
+        "spell1": "Veil of Frost",
+        "spell2": "Phantom Aegis",
+        "spell3": "Frost Barrier",
+        "ultspell": "Crimson Beam",
+        "blood": ["Mutant", "Scholar"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Grim", 
+        "amulet": "Master Spellweaver",
+        "elixir": "Elixir of the Blasphemous",
+        "coating": "Chaoscoat",
+        "passives": ["Cold Soul", "Chill Weave", "Embrace Mayhem", "Bastion", "Dark Enchantment"],
+        "change": "new"
+    },
+    {
+        "buildname": "Maxed Weapons Skill Mist",
+        "description": "A build with optimised stats for maxed physical crit, phys power, weapon skill power. Provides a lot of safety with mist trance and aegis while doing its damage with high value weapon skills. Can include wraithblades swaps for huge damage Qs",
+        "author": "Chappll - Chipsa Build",
+        "tier": "S+",
+        "content": "All",
+        "spell1": "Veil of Illusion",           
+        "spell2": "Phantom Aegis",
+        "spell3": "Mist Trance",
+        "ultspell": "Heart Strike",    
+        "blood": ["Warrior", "Rogue"], 
+        "bloodvariation": "1",     
+        "armour": "Dracula's Dread", 
+        "amulet": "Crimson Commander",  
+        "elixir": "Elixir of the Raven",
+        "coating": "Chaoscoat",
         "passives": ["Bastion", "Dark Enchantment", "Overpower", "Ravenous Strikes", "Lethal Strikes"],
         "change": "new"
+    },
+    {
+        "buildname": "Standard Aggro",
+        "description": "An aggressive physical build for chasing and fast cooldown trading",
+        "author": "Chappll",
+        "tier": "S",
+        "content": "All Content",
+        "spell1": "Veil of Blood",
+        "spell2": "Power Surge",
+        "spell3": "Discharge",
+        "ultspell": "Merciless Charge",
+        "blood": ["Brute", "Rogue"], 
+        "bloodvariation": "1",
+        "armour": "Dracula's Shadow", 
+        "amulet": "Blademaster",
+        "elixir": "Elixir of the Raven",
+        "coating": "Unholycoat",
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "change": "new"
+    },
+    {
+        "buildname": "Random Ball-shift Go - V2",
+        "description": "A more defensive varient of the random ball shift build which is becoming common. Exceptionally strong neutral game, very good at ranged and close combat, highly mobile.",
+        "author": "Chappll",
+        "tier": "S+",
+        "content": "Arena / Open World",
+        "spell1": "Veil of Illusion",
+        "spell2": "Polarity Shift",
+        "spell3": "Ball Lightning",
+        "ultspell": "Heart Strike",
+        "blood": ["Draculin", "Scholar"], 
+        "bloodvariation": "2",
+        "armour": "Dracula's Maleficer", 
+        "amulet": "Arch-Warlock",
+        "elixir": "Elixir of the Twisted",
+        "coating": "Chaoscoat",
+        "passives": ["Wicked Power", "Bastion", "Enhanced Conductivity", "Turbulent Velocity", "Dark Enchantment"],
+        "change": "up"
     }
 ]
