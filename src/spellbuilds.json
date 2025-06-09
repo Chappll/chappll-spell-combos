@@ -1147,8 +1147,7 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
-        "change": "new"
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"]
     },
     {
         "buildname": "Mutant Brute Ult Spam",
@@ -1166,8 +1165,7 @@
         "amulet": "Master Spellweaver",
         "elixir": "Elixir of the Blasphemous",
         "coating": "Chaoscoat",
-        "passives": ["Cold Soul", "Chill Weave", "Embrace Mayhem", "Bastion", "Dark Enchantment"],
-        "change": "new"  
+        "passives": ["Cold Soul", "Chill Weave", "Embrace Mayhem", "Bastion", "Dark Enchantment"]
     },
     {
         "buildname": "High Value Ult Spam",
@@ -1185,8 +1183,7 @@
         "amulet": "Master Spellweaver",
         "elixir": "Elixir of the Blasphemous",
         "coating": "Chaoscoat",
-        "passives": ["Cold Soul", "Chill Weave", "Embrace Mayhem", "Bastion", "Dark Enchantment"],
-        "change": "new"
+        "passives": ["Cold Soul", "Chill Weave", "Embrace Mayhem", "Bastion", "Dark Enchantment"]
     },
     {
         "buildname": "Maxed Weapons Skill Mist",
@@ -1204,8 +1201,7 @@
         "amulet": "Crimson Commander",  
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Overpower", "Ravenous Strikes", "Lethal Strikes"],
-        "change": "new"
+        "passives": ["Bastion", "Dark Enchantment", "Overpower", "Ravenous Strikes", "Lethal Strikes"]
     },
     {
         "buildname": "Standard Aggro",
@@ -1223,8 +1219,7 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
-        "change": "new"
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"]
     },
     {
         "buildname": "Random Ball-shift Go - V2",
@@ -1261,7 +1256,101 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"],
+        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"]
+    },
+    {
+        "buildname": "Scholar Corrupted DD",
+        "description": "Proc your own counters with the shadows summoned by corrupted blood. Very few opening to deal damage to without AOE. Very strong 1vX and has many good matchups. Spell damage varient with very low counter cds",
+        "author": "Chappll",
+        "tier": "S+",
+        "content": "All Content",
+        "spell1": "Veil of Frost",
+        "spell2": "Blood Rite",
+        "spell3": "Cold Snap",
+        "ultspell": "Wisp Dance",
+        "blood": ["Scholar", "Corrupted"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Grim", 
+        "amulet": "Master Spellweaver",
+        "elixir": "Elixir of the Beast",
+        "coating": "Chaoscoat",
+        "passives": ["Turbulent Velocity","Renewing Flame","Chill Weave", "Dark Enchantment", "Bastion"],
+        "change": "new"
+    },
+    {
+        "buildname": "Lance Spiders",
+        "description": "Huge Combo Potential with Freeze > Spider > Lance. Potential to one shot vs squishy bloods",
+        "author": "Chappll",
+        "tier": "A",
+        "content": "Arena",
+        "spell1": "Veil of Frost",
+        "spell2": "Crystal Lance",
+        "spell3": "Frost Barrier",
+        "ultspell": "Volatile Arachnid",
+        "blood": ["Scholar", "Mutant"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Maleficer", 
+        "amulet": "Arch-Warlock",
+        "elixir": "Elixir of the Twisted",
+        "coating": "Chaoscoat",
+        "passives": ["Wicked Power", "Bastion", "Cold Soul", "Chill Weave", "Dark Enchantment"],
+        "change": "new"
+    },
+    {
+        "buildname": "Cursed Wisps",
+        "description": "Plays massively around the wisp dance ulty for the majority of its damage with the potential for huge curse hits while it is active",
+        "author": "ChipSa",
+        "tier": "A",
+        "content": "Any",
+        "spell1": "Veil of Frost",
+        "spell2": "Curse",
+        "spell3": "Frost Barrier",
+        "ultspell": "Wisp Dance",
+        "blood": ["Mutant", "Scholar"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Grim", 
+        "amulet": "Master Spellweaver",
+        "elixir": "Elixir of the Blasphemous",
+        "coating": "Chaoscoat",
+        "passives": ["Embrace Mayhem", "Enhanced Conductivity", "Bastion", "Chill Weave", "Dark Enchantment"],
+        "change": "new"
+    },
+    {
+        "buildname": "Immarl Wraith Spear",
+        "description": "Takes advantage of Wraith spears high mobility to remain safe and hits hard with its poke when wraith spears lands. Wisp dance can pressure during close range fights",
+        "author": "Chappll - seen from Immarl",
+        "tier": "S",
+        "content": "Any",
+        "spell1": "Veil of Illusion",
+        "spell2": "Wraith Spear",
+        "spell3": "Blood Rite",
+        "ultspell": "Wisp Dance",
+        "blood": ["Draculin", "Scholar"], 
+        "bloodvariation": "3",
+        "armour": "Dracula's Maleficer", 
+        "amulet": "Arch-Warlock",
+        "elixir": "Elixir of the Twisted",
+        "coating": "Chaoscoat",
+        "passives": ["Spiritual Infusion", "Wicked Power", "Bastion", "Turbulent Velocity", "Dark Enchantment"],
+        "change": "new"
+    },
+    {
+        "buildname": "Aftershocking",
+        "description": "Mobile, good damage, strong 1vX and a reasonable matchup into double defence. Can kite well and chaos barrier has great synergy with aftershock together being a high damage defensive that uses the aoe damage of aftershock to counters chaos barriers bad matchups vs defensives",
+        "author": "Chappll",
+        "tier": "S+",
+        "content": "Any",
+        "spell1": "Veil of Chaos",
+        "spell2": "Aftershock",
+        "spell3": "Chaos Barrier",
+        "ultspell": "Heart Strike",
+        "blood": ["Draculin", "Scholar"], 
+        "bloodvariation": "2",
+        "armour": "Dracula's Maleficer", 
+        "amulet": "Arch-Warlock",
+        "elixir": "Elixir of the Twisted",
+        "coating": "Chaoscoat",
+        "passives": ["Renewing Flame", "Wicked Power", "Bastion", "Turbulent Velocity", "Dark Enchantment"],
         "change": "new"
     }
 ]
