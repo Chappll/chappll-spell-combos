@@ -15,7 +15,8 @@
         "amulet": "Master Spellweaver",  
         "elixir": "Elixir of the Prowler",
         "coating": "Frostcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"]
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=533333333bck9ag2345f2364414262c0B8Er58E2s318Ef028Eo682Eb0D7En218Ei2B9544444671"
     },
     {
         "buildname": "Hybrid Spell/Warrior",
@@ -248,7 +249,8 @@
         "elixir": "Elixir of the Twisted",
         "coating": "Stormcoat",
         "passives": ["Wicked Power", "Bastion", "Enhanced Conductivity", "Turbulent Velocity", "Embrace Mayhem"],
-        "change": "up"
+        "change": "up",
+        "varena": "https://www.v-arena.com/builds/create?build=722222222gkbcit1234p2651546232c028Er528Es38E1f0E82o628Eb0D9En22E8i249A33333962"
     },
     {
         "buildname": "Cursing Tendrils",
@@ -481,7 +483,8 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"]
+        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=6666666664nbk733456a1285615425q538Er538Ek68311038Eo68E3a07D88018El281352222721"
     },
     {
         "buildname": "Annoying cat",
@@ -499,7 +502,8 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"]
+        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=6666666667nbc4d1354s1452412645q5238d0E83k6183t328Eo628Ea0D788038El212852222721"
     }, 
     {
         "buildname": "Blood Bat Beam",
@@ -553,7 +557,8 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
-        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"]
+        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "varena": "https://www.v-arena.com/builds/create?build=62222222287nbcd2351j1248312352q5238d0238k6238t3238o6283a0D7E8028El2283144445a3"
     },
     {
         "buildname": "Standard Healer",
@@ -643,7 +648,8 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"]
+        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=666666666bk4n82136734563223565c08B2d0238k6182t3283o6283a07D8n2812l218212222721"
     },
     {
         "buildname": "1.0 Meta",
@@ -661,7 +667,8 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Frostcoat",
-        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"]
+        "passives": ["Bastion", "Lethal Strikes", "Rampage", "Overpower", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=633333333bk47n27316d1345414626q58B2d0238k6238t3238o6238a07D880238l223814444722"
     },
     {
         "buildname": "Big Wolf Cleave",
@@ -895,7 +902,8 @@
         "amulet": "Arch-Warlock",  
         "elixir": "Elixir of the Twisted",
         "coating": "Frostcoat",
-        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"]
+        "passives": ["Bastion", "Dark Enchantment", "Cold Soul", "Chill Weave", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=733333333bc9akg2456f3456413656c0B8Er582Es38E2f0E82o628Eb0B7Dn218Ei2B4933333962"
     },
     {
         "buildname": "Ult Support - Tendrils",
@@ -913,7 +921,8 @@
         "amulet": "Wicked Prophet",
         "elixir": "Elixir of the Bat",
         "coating": "Illucoat",
-        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Embrace Mayhem", "Turbulent Velocity"]
+        "passives": ["Bastion", "Dark Enchantment", "Enhanced Conductivity", "Embrace Mayhem", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=144444444bckoiu1572l5672524631c08EBr528Es328Et328Eo68E2b0B7Dn2E81309BA21111643"
     },
     {
         "buildname": "Ult Support - Blood Tendrils",
@@ -1039,7 +1048,8 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Renewing Flame", "Chaos Kindling", "Turbulent Velocity"]
+        "passives": ["Bastion", "Dark Enchantment", "Renewing Flame", "Chaos Kindling", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=722222222bck56b145232456523466c0B8Er5E82s38E1f028Eo628Eb0D7Bn22E8i2B9433333952"
     },
     {
         "buildname": "Agony Skeleton Chaos",
@@ -1057,7 +1067,8 @@
         "amulet": "Arch-Warlock",
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
-        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"]
+        "passives": ["Dark Enchantment", "Bastion", "Chaos Kindling", "Renewing Flame", "Turbulent Velocity"],
+        "varena": "https://www.v-arena.com/builds/create?build=722222222bck5695162z6327312543c0B8Er528Es328Ef028Eo628Eb07D8n228Ei24B933333963"
     },
     {
         "buildname": "Corrupted Double defence",
@@ -1075,7 +1086,8 @@
         "amulet": "Crimson Commander",
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
-        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"]
+        "passives": ["Overpower","Ravenous Strikes","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "varena": "https://www.v-arena.com/builds/create?build=62222222287nbc33456j2451524632q5238d0238k6283t3238o6238a07D880238l2238122227a3"
     },
     {
         "buildname": "Standard Chains",
@@ -1111,7 +1123,8 @@
         "amulet": "Unyielding Charger",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"]
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "varena": "https://www.v-arena.com/builds/create?build=6666666664nbcka128533456615426q538Er538Ek68311038Eo68E3a07D88018El281362222251"
     },
     {
         "buildname": "Max Damage Daggers",
@@ -1147,7 +1160,8 @@
         "amulet": "Blademaster",
         "elixir": "Elixir of the Raven",
         "coating": "Unholycoat",
-        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"]
+        "passives": ["Rampage","Turbulent Velocity","Lethal Strikes", "Dark Enchantment", "Bastion"],
+        "varena": "https://www.v-arena.com/builds/create?build=666666666n4bckl532633456213562q5381d038Ek6138t338Eo638Ea0D7880381l231852222251"
     },
     {
         "buildname": "Mutant Brute Ult Spam",
@@ -1201,7 +1215,8 @@
         "amulet": "Crimson Commander",  
         "elixir": "Elixir of the Raven",
         "coating": "Chaoscoat",
-        "passives": ["Bastion", "Dark Enchantment", "Overpower", "Ravenous Strikes", "Lethal Strikes"]
+        "passives": ["Bastion", "Dark Enchantment", "Overpower", "Ravenous Strikes", "Lethal Strikes"],
+        "varena": "https://www.v-arena.com/builds/create?build=6222222228n7bcl5726j1245524632q5238d0382s3238t323840238p3D7880238l223814444751"
     },
     {
         "buildname": "Standard Aggro",
@@ -1238,7 +1253,8 @@
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
         "passives": ["Wicked Power", "Bastion", "Enhanced Conductivity", "Turbulent Velocity", "Dark Enchantment"],
-        "change": "up"
+        "change": "up",
+        "varena": "https://www.v-arena.com/builds/create?build=722222222gkbcit1234p2651546232c028Er528Es38E1f0E82o628Eb0D9En22E8i249A33333962"
     },
     {
          "buildname": "Double Offence Chaos",
@@ -1275,7 +1291,8 @@
         "elixir": "Elixir of the Beast",
         "coating": "Chaoscoat",
         "passives": ["Turbulent Velocity","Renewing Flame","Chill Weave", "Dark Enchantment", "Bastion"],
-        "change": "new"
+        "change": "new",
+        "varena": "https://www.v-arena.com/builds/create?build=2222222226abck34562d1245412468c0B8Er528Es328Ef0238o628Eb07DBn28E2i2178411116a3"
     },
     {
         "buildname": "Lance Spiders",
@@ -1351,6 +1368,7 @@
         "elixir": "Elixir of the Twisted",
         "coating": "Chaoscoat",
         "passives": ["Renewing Flame", "Wicked Power", "Bastion", "Turbulent Velocity", "Dark Enchantment"],
-        "change": "new"
+        "change": "new",
+        "varena": "https://www.v-arena.com/builds/create?build=722222222bcgk67416282531354122c028Br528Es38E1f0E82o6E82b07DBn2E82i2B4933333962"
     }
 ]

@@ -133,6 +133,29 @@ const BuildModal = ({ build, onClose, gradient }) => {
             />
           ))}
           </div>
+          {build.varena && (
+  <div style={{ marginTop: "1.5rem", textAlign: "center" }}>
+    <a
+      href={build.varena}
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{
+        color: "#FFD700",
+        textDecoration: "none",
+        fontWeight: "bold",
+        border: "1px solid #FFD700",
+        padding: "8px 12px",
+        borderRadius: "8px",
+        display: "inline-block",
+        transition: "all 0.2s ease"
+      }}
+      onMouseEnter={(e) => (e.target.style.backgroundColor = "#FFD70020")}
+      onMouseLeave={(e) => (e.target.style.backgroundColor = "transparent")}
+    >
+      🔗 View on V-Arena.com
+    </a>
+  </div>
+)}
         </div>
       </div>
     </div>
